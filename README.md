@@ -1,5 +1,3 @@
 # hello-world
 
-Yo
-
-I'm Ben and I don't know what I'm doing.
+An effort to DISRUPT the international CODING scene.
